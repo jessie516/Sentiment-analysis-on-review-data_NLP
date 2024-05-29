@@ -5,3 +5,7 @@ Sentiment analysis on review data using NLP techniques
 
 - Sentiment analysis on review data report.pdf
 - Sentiment analysis on review data.ipynb
+- clothing_reviews.csv
+- positive.csv
+- negative.csv
+- preprocessed.csv
